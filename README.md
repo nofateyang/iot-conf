@@ -1,2 +1,2 @@
-# iot-conf
+# iot-configuration
 iot projedct configuration
